@@ -1,6 +1,6 @@
 # Develop a fully featured web app built on the Watson Discovery Service - V2!
 
-> Note: This is a fork of the original Discovery UI that was built for the V1 Discovery SDK. It has been updated to work with the V2 SDK. This has not been fully tested, so use at your own risk.
+> Note: This is a fork of the [original Discovery UI](https://github.com/IBM/watson-discovery-ui) that was built for the V1 Discovery SDK. It has been updated to work with the V2 SDK. This has not been fully tested, so use at your own risk.
 
 In this code pattern, we walk you through a working example of a web application that queries and manipulates data from the Watson Discovery Service. This web app contains multiple UI components that you can use as a starting point for developing your own Watson Discovery Service applications. 
 
